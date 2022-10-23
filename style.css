@@ -224,3 +224,19 @@
     padding-bottom: 50px;
     margin-bottom: 80px;
   }
+  .foot{
+    background-color: #20b1a7;;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* margin-top:1rem; */
+    height: 3rem;
+}
+
+.rightFoot i{
+    margin-top: 0.5rem;
+    /* margin-right: 4rem; */
+    color:#ced4da;
+    padding:0 0.5rem;
+   
+}
